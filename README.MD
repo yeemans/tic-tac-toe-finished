@@ -1,1 +1,1 @@
-It's tic-tac-toe. In ruby too.
+Tic-Tac-Toe implemented in Ruby, from The Odin Project's curriculum.
